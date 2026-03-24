@@ -63,6 +63,14 @@ To get this CRM running on your machine/server, follow these 5 simple steps:
 
 *(See [docs/setup-guide.md](docs/setup-guide.md) for full detailed instructions)*
 
+## 📸 Screenshots
+
+### Cold Outreach Workflow
+![Cold Outreach Workflow](docs/screenshots/cold-outreach-workflow.png)
+
+### AI Reply Handler
+![AI Reply Handler](docs/screenshots/ai-reply-handler.png)
+
 ---
 
 <div align="center">
